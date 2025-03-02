@@ -4,6 +4,6 @@ Este repositório contém algumas das imagens utilizadas em meu TCC. Abaixo est�
 
 ## Imagens e suas fontes
 
-### esfera_rolagem.png
-- **Fonte:** [Mercado Livre]([https://lista.mercadolivre.com.br/esfera-deslizante-robotica])  
+### 1 - esfera_rolagem.png
+- **Fonte:** [Mercado Livre](https://lista.mercadolivre.com.br/esfera-deslizante-robotica)  
 - **Descrição:** Ilustração sobre uma esfera deslizante.  
